@@ -1,7 +1,7 @@
 ## Avaliação de Dsempenho - LAB 3
 Codigo: Implementar uma solução sequencial e uma solução concorrente para o problema de encontrar o menor e o maior valor em um  vetor de números reais
 
-Foi executado 5 vezes cada código
+Foi executado 8 vezes cada código
 
 # Rodando com N=10⁵
  ```
